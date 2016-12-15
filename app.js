@@ -6,11 +6,11 @@ var config = {
   // - Your app's id on moneypot.com
   app_id: 01,                             // <----------------------------- EDIT ME!
   // - Displayed in the navbar
-  app_name: 'Dice Tech',
+  app_name: 'RoboDice',
   // - For your faucet to work, you must register your site at Recaptcha
   // - https://www.google.com/recaptcha/intro/index.html
-  recaptcha_sitekey: '6Le_6Q4UAAAAAP_8s7cuR8PMzA7UaRnOQESUZa1T',  // <----- EDIT ME!
-  redirect_uri: 'https://apkparty.github.io',
+  recaptcha_sitekey: '6Ld26w4UAAAAAGLxjCWj3AoJcUDoqxODgOT6Z8xk',  // <----- EDIT ME!
+  redirect_uri: 'https://robodice.github.io',
   mp_browser_uri: 'https://www.moneypot.com',
   mp_api_uri: 'https://api.moneypot.com',
   chat_uri: '//socket.moneypot.com',
